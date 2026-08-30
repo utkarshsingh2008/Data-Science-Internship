@@ -44,8 +44,8 @@ I also compared the model with Random Forest. Logistic Regression performed bett
 ### Files
 
 - `prog.py` – Python implementation
-- `breast_cancer.csv` – Dataset
-
+- `README.md` – Project overview and results
+  
 ### Note
 
 This project is created for learning and internship purposes. The model should not be considered a medical diagnosis tool.
